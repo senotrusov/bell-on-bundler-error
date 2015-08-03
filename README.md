@@ -23,4 +23,4 @@ plugins: [
 ```
 
 ## License
-MIT
+[MIT](LICENSE)
