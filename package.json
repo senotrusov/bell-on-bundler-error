@@ -1,7 +1,7 @@
 {
   "name": "bell-on-bundler-error",
-  "version": "1.0.6",
-  "description": "Notification on build errors by writing bell character to stderr output",
+  "version": "1.0.7",
+  "description": "Notification on bundler build errors by writing bell character to stderr output",
   "main": "index.js",
   "repository": {
     "type": "git",
