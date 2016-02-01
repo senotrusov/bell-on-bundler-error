@@ -1,5 +1,7 @@
 # Bell on bundler error
 
+Please see also [bell-on-bundler-error-plugin](https://github.com/senotrusov/bell-on-bundler-error-plugin) – the same plugin with less minimalistic API.
+
 Notification on [webpack module bundler](http://webpack.github.io/) build errors by writing bell character to stderr output
 
 ## Installation
